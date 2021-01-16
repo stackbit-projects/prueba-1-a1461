@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Customer Loyalty Programs That Stick 2
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
